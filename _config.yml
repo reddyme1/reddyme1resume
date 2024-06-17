@@ -54,6 +54,8 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello, welcome to my portfolio! I am currently pursuing a degree in Computational Data Science at Michigan State University's College of Engineering, with an expected graduation date of May 2026. My academic journey is deeply rooted in a comprehensive curriculum that includes Differential Equations, Computational Modeling, Data Analysis, Multivariable Calculus, and Statistics, among other relevant courses. This diverse coursework has equipped me with a solid foundation in both theoretical and practical aspects of data science and engineering.  [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
+  Beyond the classroom, I am actively involved in various projects and clubs that reflect my passion for sustainability and the arts. As the Social Events Coordinator and E-board member for Engineers for a Sustainable World, I organize events that promote environmental and social responsibility. A notable project I led involved coordinating a team to build bee boxes around campus, contributing to local biodiversity and sustainability efforts. Additionally, my involvement in the Art History Association has enriched my appreciation for cultural diversity through regular participation in art-related events and lectures.
+
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
