@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Testing Meghana wrote this  [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello, welcome to my portfolio! I am currently pursuing a degree in Computational Data Science at Michigan State University's College of Engineering, with an expected graduation date of May 2026. My academic journey is deeply rooted in a comprehensive curriculum that includes Differential Equations, Computational Modeling, Data Analysis, Multivariable Calculus, and Statistics, among other relevant courses. This diverse coursework has equipped me with a solid foundation in both theoretical and practical aspects of data science and engineering.  [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
